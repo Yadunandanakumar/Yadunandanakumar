@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yadunandana kumar</h1>
 <h3 align="center">"Passionate CSE Student | Data Analysis Enthusiastic | Fourth-year B.Tech at SRM University AP"</h3>
 
-- 🌱 I’m currently Studying **Computer Science and Engineering**
-
+- 🌱 CSE Undergraduate at SRM University, AP
+  
 - 🤝 I’m completed Intern in **Data Analysis Using Python**
 
 - 💬 Ask me about **Python**

@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yadunandana kumar</h1>
-<h3 align="center">"Passionate CSE Student | Data Analysis Enthusiastic | Fourth-year B.Tech at SRM University AP"</h3>
 
 - 🌱 CSE Undergraduate at SRM University, AP
   

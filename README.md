@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yadunandana kumar</h1>
 
-- 🌱 CSE Undergraduate at SRM University, AP
+- 🌱 B.Tech CSE Graduate at SRM University, AP
   
 - 🤝 I’m completed Intern in **Data Analysis Using Python**
 
